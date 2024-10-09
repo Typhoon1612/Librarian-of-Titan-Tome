@@ -1,0 +1,21 @@
+# Ignore temporary and build files from Unity
+[Dd]ebug/
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Pp]rojectSettings/
+UserSettings/
+Logs/
+MemoryCaptures/
+
+# Ignore auto-generated IDE or build files
+.vscode/
+*.csproj
+*.sln
+*.user
+
+# Ignore Unity-generated files
+sysinfo.txt
+*.stacktrace
+
